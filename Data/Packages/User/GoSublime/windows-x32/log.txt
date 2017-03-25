@@ -1,0 +1,44 @@
+
+** 2016-08-14 14:53:03.484159 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r16.07.09-1_go?.exe', 'disposa.blue/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2016-08-14 14:53:03.504159 **:
+MarGo: Missing required environment variables: GOROOT GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_386;D:\\testproject\\go\\pkg\\windows_386", GOOS:"windows", GOARCH:"386", Compiler:"gc", GOROOT:"C:\\Go", GOPATH:"D:\\testproject\\go", InstallSuffix:""}
+Gocode pkg: "service/database"
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_386;D:\\testproject\\other\\pkg\\windows_386", GOOS:"windows", GOARCH:"386", Compiler:"gc", GOROOT:"C:/Go", GOPATH:"D:/testproject/other", InstallSuffix:""}
+Gocode pkg: "service/model"
+Gocode pkg: "service"
+Gocode pkg: "service/database"
+Gocode pkg: "service/model"
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_386;D:\\testproject\\other\\pkg\\windows_386", GOOS:"windows", GOARCH:"386", Compiler:"gc", GOROOT:"C:/Go", GOPATH:"D:/testproject/other", InstallSuffix:""}
+Gocode pkg: "service/database"
+Gocode pkg: "service/modeltest"
+Gocode pkg: "service/database"
+Gocode pkg: "service/modeltest"
+Gocode pkg: "service/database"
+Gocode pkg: "service/model"
+
+** 2016-11-11 15:30:13.390812 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r16.07.09-1_go?.exe', 'disposa.blue/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------

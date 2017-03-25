@@ -1,0 +1,30 @@
+{
+	"9o.hist.D:\\testproject\\go\\model":
+	[
+		"go build"
+	],
+	"9o.hist.D:\\testproject\\other\\src\\service":
+	[
+		"go build",
+		"go build main.go",
+		"go run go build main.go",
+		"go run main.go",
+		"cd modeltest"
+	],
+	"9o.hist.D:\\testproject\\other\\src\\service\\model":
+	[
+		"go get github.com/go-sql-driver/mysql",
+		"go build",
+		"go test",
+		"go test goods_test.go",
+		"go test -v goods_test.go",
+		"cd .."
+	],
+	"9o.hist.D:\\testproject\\other\\src\\service\\modeltest":
+	[
+		"go test -v goods_test.go"
+	],
+	"ann": "a16.07.09-1",
+	"install_version": "r16.07.09-1",
+	"version": "r16.07.09-1"
+}

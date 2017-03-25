@@ -1,0 +1,1340 @@
+{
+	"folder_history":
+	[
+		"/D/Project/17mocha",
+		"/D/Project/tp5",
+		"/D/testproject/htdocs",
+		"/D/testproject/bbs",
+		"/D/testproject/trunk",
+		"/D/Project/abc360",
+		"/D/Project/zerobased",
+		"/D/Project/app3.3.0",
+		"/D/testproject/test",
+		"/D/Project/BBS",
+		"/D/testproject/BBS",
+		"/D/testproject/other/src/service",
+		"/D/testproject/go",
+		"/D/www"
+	],
+	"last_version": 3126,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 632.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"array",
+						"array_combine〔function〕"
+					],
+					[
+						"_",
+						"$_SERVER〔variable〕"
+					],
+					[
+						"array_c",
+						"array_column〔function〕"
+					],
+					[
+						"print",
+						"print_r〔function〕"
+					],
+					[
+						"imp",
+						"implode〔function〕"
+					],
+					[
+						"ex",
+						"explode"
+					],
+					[
+						"strip",
+						"stripslashes〔function〕"
+					],
+					[
+						"json",
+						"json_encode〔function〕"
+					],
+					[
+						"get",
+						"getLastSql〔function〕"
+					],
+					[
+						"role",
+						"role_type"
+					],
+					[
+						"_s",
+						"$_SESSION〔variable〕"
+					],
+					[
+						"ca",
+						"category"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"font",
+						"font-size: 〔property〕"
+					],
+					[
+						"background-c",
+						"background-color"
+					],
+					[
+						"str_re",
+						"str_replace〔function〕"
+					],
+					[
+						"var",
+						"var_dump〔function〕"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "pack",
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippets",
+						"SublimeCodeIntel: Dump Import Directories"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git log",
+						"Git: Log All"
+					],
+					[
+						"package Control: Install Package",
+						"Package Control: Install Package"
+					],
+					[
+						"p",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Project/BBS/api/V1/Function.php",
+				"/D/Project/BBS/api/V1/GetBbsPostInfo.php",
+				"/D/Project/BBS/api/V1/StudentInfo.php",
+				"/D/Project/BBS/api/V1/Common.php",
+				"/D/Project/BBS/config/config_global.php",
+				"/D/testproject/test/array.php",
+				"/C/Users/henry/Desktop/synchBbsMobile.sql",
+				"/D/Project/BBS/api/V1/function.php",
+				"/D/www/Application/Web/Controller/TeachersController.class.php",
+				"/D/www/Application/Web/Controller/IndexController.class.php",
+				"/D/www/Application/V1/Service/ActivitiesService.class.php",
+				"/D/www/Application/V1/Controller/ActivitiesController.class.php",
+				"/D/Project/BBS/source/class/class_dbstuff.php",
+				"/D/www/Application/V1/Controller/CommonController.class.php",
+				"/D/Project/BBS/api/V1/Config.php",
+				"/D/Project/BBS/uc_client/client.php",
+				"/D/config.ini",
+				"/D/software/portable/Sublime/Data/Packages/User/Default (Windows).sublime-mousemap",
+				"/D/software/portable/Sublime/Data/Packages/CTags/Default.sublime-mousemap",
+				"/D/Project/BBS/source/class/discuz/discuz_database.php",
+				"/D/software/portable/Sublime/Data/Packages/CTags/Default.sublime-keymap",
+				"/D/software/portable/Sublime/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/software/portable/Sublime/Data/Packages/User/CTags.sublime-settings",
+				"/D/www/Application/IMSystem/Controller/CommonController.class.php",
+				"/D/testproject/test/sign.php",
+				"/D/testproject/test/upload.php",
+				"/D/www/Application/V1/Controller/StudentsController.class.php",
+				"/D/Project/BBS/template/default/api/CommunityInfo.htm",
+				"/D/wamp64/bin/apache/apache2.4.17/conf/httpd.conf",
+				"/D/testproject/test/aaa.php",
+				"/D/www/Application/V3/Controller/CommonController.class.php",
+				"/D/www/ThinkPHP/Library/Vendor/qiniu/io.php",
+				"/D/www/Application/V3/Controller/DiscussController.class.php",
+				"/D/www/Application/SmileBusinessAdmin/Controller/CommonController.class.php",
+				"/D/www/Public/Admin/css/biz_cls_rcds.css",
+				"/D/www/Public/Admin/js/bizClsRecords/biz_cls_rcds.js",
+				"/D/www/Application/Board/View/BizClassRecords/stuClassDetail.html",
+				"/C/Users/henry/Desktop/audio.html",
+				"/D/testproject/test/mathcode.php",
+				"/C/Users/henry/Desktop/function.php",
+				"/D/www/Application/SmileBusinessAdmin/Controller/PublicController.class.php",
+				"/C/Users/henry/Desktop/bbs_online_database.sql",
+				"/D/www/项目文档/数据库修改脚本/迭代3.16_db_chg_log.sql",
+				"/D/www/Application/Board/View/ConsumablesRecords/edit.html",
+				"/D/Project/app3.3.0/Application/V3/Controller/DiscussController.class.php",
+				"/D/Project/app3.3.0/Application/V3/Service/BizMtService.class.php",
+				"/C/Users/henry/Desktop/迭代3.16_db_chg_log.sql",
+				"/D/www/Application/Web/View/Index/abc360AppLearnReport.html",
+				"/D/www/Application/SmileBusinessAdmin/Controller/DiscussController.class.php",
+				"/D/www/Application/SmileBusinessAdmin/View/Discuss/index.html",
+				"/D/www/Application/SmileBusinessAdmin/View/Index/index.html",
+				"/D/www/Application/SmileBusinessAdmin/View/Public/index.html",
+				"/D/www/Application/SmileBusinessAdmin/View/Public/lefter.html",
+				"/D/www/Application/SmileBusinessAdmin/Controller/IndexController.class.php",
+				"/D/www/Application/SmileBusinessAdmin/Conf/config.php",
+				"/D/www/Application/SmileBusinessAdmin/Controller/KeywordsController.class.php",
+				"/D/testproject/test/download.php",
+				"/D/www/项目文档/数据库修改脚本/Elite分菲教欧美教师.sql",
+				"/D/Profile/Jsonp实例",
+				"/D/www/项目文档/数据库修改脚本/迭代3.15_db_chg_log.sql",
+				"/D/www/Application/DataService/Logic/BizClassRecordsLogic.class.php",
+				"/D/www/Application/DataService/Service/StudentsService.class.php",
+				"/C/Users/henry/Desktop/delete.sql",
+				"/D/wamp64/bin/apache/apache2.4.17/bin/php.ini",
+				"/D/www/index.php",
+				"/D/wamp/bin/apache/Apache2.4.4/conf/httpd.conf",
+				"/D/wamp/bin/apache/Apache2.4.4/bin/php.ini",
+				"/D/software/system/windows/wampserver_44283/安装说明.txt",
+				"/D/Program Files/wamp/bin/apache/apache2.4.9/bin/php.ini",
+				"/D/Program Files/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+				"/D/www/Application/Common/Conf/db_local.php",
+				"/D/Profile/http.conf.txt",
+				"/D/software/system/redis扩展/redis扩展.txt",
+				"/D/Profile/数据库连接.txt",
+				"/D/Profile/密码留存.txt",
+				"/D/Profile/编辑器、环境.txt",
+				"/D/Profile/测试库链接.txt",
+				"/C/Users/henry/Desktop/链接-sql.txt",
+				"/D/wamp64/wampmanager.conf",
+				"/D/www/ThinkPHP/Library/Org/BbsApi.class.php",
+				"/D/testproject/test/test.html",
+				"/D/Profile/单词量/单词量活动.md",
+				"/C/Users/henry/Downloads/api_mobile.md",
+				"/D/www/Application/V3/Controller/SmileBusinessApiController.class.php",
+				"/D/Project/BBS/static/abc360App/css/video-js.min.css",
+				"/D/www/Application/DataService/Service/BizMakeUpCardService.class.php",
+				"/D/www/Application/V3/Controller/CardsController.class.php",
+				"/C/Users/henry/Desktop/css/video-js.min.css",
+				"/C/Users/henry/Downloads/video-js-5.11.6/video-js.css",
+				"/D/www/Application/Web/Controller/BbsController.class.php",
+				"/D/www/Application/Common/Common/function.php",
+				"/D/www/Application/Common/Conf/db_aliyun_beijing_a.php",
+				"/D/www/Application/Common/Conf/config_aliyun_beijing_a.php",
+				"/D/Project/BBS/config/config_ucenter.php",
+				"/D/Project/BBS/config/db_local.php",
+				"/D/Project/BBS/config/db_local_ucenter.php",
+				"/D/Project/BBS/source/class/class_core.php",
+				"/D/www/Application/Web/View/Bbs/reg.html",
+				"/D/Project/BBS/static/abc360App/js/common.js",
+				"/D/Project/BBS/uc_server/control/admin/user.php",
+				"/D/Project/BBS/admin.php",
+				"/D/Project/BBS/uc_client/control/user.php",
+				"/D/Project/BBS/uc_client/model/user.php",
+				"/D/Project/BBS/member.php",
+				"/D/Project/BBS/source/module/member/member_logging.php",
+				"/D/Project/BBS/source/function/function_discuzcode.php",
+				"/D/Project/BBS/source/function/function_attachment.php",
+				"/D/Project/BBS/uc_server/model/user.php",
+				"/D/Project/BBS/uc_server/admin.php",
+				"/D/Project/BBS/uc_server/model/base.php",
+				"/D/Project/BBS/uc_server/data/config.inc.php",
+				"/D/testproject/upload/api/uc.php",
+				"/D/Project/BBS/api/V1/uc.php",
+				"/D/Project/BBS/index.php",
+				"/D/Profile/bbs/config/config/config_local.php",
+				"/D/Profile/bbs/config/config/db_local.php",
+				"/D/Project/BBS/api/uc.php",
+				"/C/Users/henry/Downloads/config/config/config_test248.php",
+				"/C/Users/henry/Desktop/cmt.sql",
+				"/D/Project/BBS/api/接口相关文档/数据库修改.sql",
+				"/D/www/ThinkPHP/Mode/Api/functions.php",
+				"/D/www/Application/Board/Controller/PublicController.class.php",
+				"/D/www/ThinkPHP/Common/functions.php",
+				"/D/testproject/other/src/service/model/goods.go",
+				"/D/testproject/other/src/service/database/database.go",
+				"/D/testproject/other/src/service/modeltest/goods_test.go",
+				"/D/www/Public/EbkServiceCrm/process_bak/libs/backbone.js",
+				"/D/testproject/other/src/service/main.go"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					"D:\\www\\Application\\SmileBusinessAdmin\\View",
+					"D:\\www\\Application",
+					"D:\\www",
+					"D:\\www\\Application",
+					"D:\\Project\\BBS",
+					"D:\\www\\Application"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"//",
+					">\n",
+					"');\n",
+					"&quot;",
+					"] ",
+					"[",
+					"saveFeedback",
+					"'()'",
+					"/>\n",
+					"query",
+					"C::t",
+					",\n",
+					"\\n",
+					"\\n\n",
+					"\">\n",
+					"\\r\\n",
+					"\";\n",
+					",],\n",
+					"'];\n",
+					"Updated",
+					"Head",
+					"abc360App",
+					"getLatestPostTime",
+					"fonts.useso",
+					"fonts-",
+					"Keywords",
+					"设置课时学员关系失败",
+					"DATE_FORMAT",
+					"redis",
+					"extension",
+					"session('stdNow.id')",
+					"define",
+					"php-redis",
+					"extension",
+					"Red",
+					"Redis",
+					"Rediss",
+					"bizGetMakeUpCard",
+					");\n",
+					"rtn_msg",
+					"$",
+					"$staticUrl.\"",
+					"STATICURL",
+					"\"$_config['output']['staticurl']",
+					"/bbs/",
+					">\n",
+					"AC_FL_RunContent",
+					"onlogincheck",
+					"client.php",
+					"login",
+					"mp4",
+					"user",
+					"ls(\n",
+					"'];\n",
+					"');\n",
+					"user(",
+					"key",
+					"login",
+					"get_client_ip()",
+					";\n",
+					"\"\n",
+					"customer",
+					"tempGoods.Name = name",
+					"goodss",
+					"category",
+					"Category"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"<!-- ",
+					"\"",
+					"']",
+					"['",
+					"\"('')\"",
+					"",
+					"<br>",
+					"Discuss",
+					"from_unixtime",
+					"\"$staticUrl",
+					"$staticUrl",
+					"STATICURL.\"",
+					"/",
+					"goodsarr",
+					"goods",
+					"Goods"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.9o://D:\\testproject\\go\\model":
+			{
+				"height": 316.0
+			},
+			"output.9o://D:\\testproject\\other\\src\\service":
+			{
+				"height": 297.0
+			},
+			"output.9o://D:\\testproject\\other\\src\\service\\model":
+			{
+				"height": 448.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 100.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 100.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"web/indexcon",
+						"www\\Application\\Web\\Controller\\IndexController.class.php"
+					],
+					[
+						"web/teacher",
+						"www\\Application\\Web\\Controller\\TeachersController.class.php"
+					],
+					[
+						"smilebusinessadmin/public",
+						"www\\Application\\SmileBusinessAdmin\\Controller\\PublicController.class.php"
+					],
+					[
+						"v3/contr",
+						"Application\\V3\\Controller\\ClassRecordsController.class.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 237.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1471.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"array",
+						"array_column"
+					],
+					[
+						"strto",
+						"strtotime"
+					],
+					[
+						"JSON",
+						"json_encode"
+					],
+					[
+						"html",
+						"htmlspecialchars"
+					],
+					[
+						"set_t",
+						"set_time_limit〔function〕"
+					],
+					[
+						"cookie",
+						"cookie_file"
+					],
+					[
+						"preg_match",
+						"preg_match_all"
+					],
+					[
+						"_G",
+						"$_GET〔variable〕"
+					],
+					[
+						"strt",
+						"strtotime〔function〕"
+					],
+					[
+						"b",
+						"block"
+					],
+					[
+						"st",
+						"style\tTag"
+					],
+					[
+						"time",
+						"$timestamp〔variable〕"
+					],
+					[
+						"session",
+						"session_id"
+					],
+					[
+						"_",
+						"$_REQUEST〔variable〕"
+					],
+					[
+						"json",
+						"json_encode〔function〕"
+					],
+					[
+						"_S",
+						"$_SESSION〔variable〕"
+					],
+					[
+						"bas",
+						"base64_encode"
+					],
+					[
+						"array_c",
+						"array_column〔function〕"
+					],
+					[
+						"print",
+						"print_r〔function〕"
+					],
+					[
+						"imp",
+						"implode〔function〕"
+					],
+					[
+						"ex",
+						"explode"
+					],
+					[
+						"strip",
+						"stripslashes〔function〕"
+					],
+					[
+						"get",
+						"getLastSql〔function〕"
+					],
+					[
+						"role",
+						"role_type"
+					],
+					[
+						"_s",
+						"$_SESSION〔variable〕"
+					],
+					[
+						"ca",
+						"category"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"font",
+						"font-size: 〔property〕"
+					],
+					[
+						"background-c",
+						"background-color"
+					],
+					[
+						"str_re",
+						"str_replace〔function〕"
+					],
+					[
+						"var",
+						"var_dump〔function〕"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/henry/Desktop/biz_field.txt",
+					"settings":
+					{
+						"buffer_size": 1903,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "package",
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"git log",
+						"Git: Log All"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"pack",
+						"Package Control: Disable Package"
+					],
+					[
+						"Snippets",
+						"SublimeCodeIntel: Dump Import Directories"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"package Control: Install Package",
+						"Package Control: Install Package"
+					],
+					[
+						"p",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/testproject/test",
+				"/D/Project/abc360",
+				"/D/Project/abc360/Application"
+			],
+			"file_history":
+			[
+				"/C/Users/henry/Desktop/biz.md",
+				"/C/Users/henry/Desktop/vue.html",
+				"/C/Users/henry/Desktop/json.text",
+				"/D/testproject/test/test_arr.php",
+				"/D/testproject/test/arr_deal.php",
+				"/D/testproject/test/jstest.php",
+				"/C/Users/henry/Desktop/0306.log/0306.log",
+				"/C/Users/henry/Desktop/goals_report.json",
+				"/D/Profile/accounts.json",
+				"/D/wamp64/bin/apache/apache2.4.17/conf/httpd.conf",
+				"/D/Project/abc360/Application/V3/Service/BizMtService.class.php",
+				"/C/Users/henry/Desktop/计算多领A币量",
+				"/D/software/portable/Sublime/Data/Packages/User/Default (Windows).sublime-mousemap",
+				"/D/software/portable/Sublime/Data/Packages/CTags/Default.sublime-mousemap",
+				"/D/software/portable/Sublime/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/software/portable/Sublime/Data/Packages/User/CTags.sublime-settings",
+				"/D/software/portable/Sublime/Data/Packages/CTags/Default.sublime-keymap",
+				"/D/Project/abc360/Application/Web/Controller/ActivityController.class.php",
+				"/D/Project/abc360/Public/Web/abc360App/js/getACoinCoupon.min.js",
+				"/D/Project/abc360/Application/Web/View/Activity/getACoinCoupon.html",
+				"/C/Users/henry/Desktop/抽奖",
+				"/D/Project/abc360/getui.php",
+				"/C/Users/henry/Desktop/cid.txt",
+				"/D/Profile/商务英语/商务首个接口修改.txt",
+				"/C/Users/henry/Desktop/OKR",
+				"/D/Project/abc360/Application/V3/Service/TwentyOneCardsService.class.php",
+				"/D/Project/abc360/Application/V3/Controller/ActivitiesController.class.php",
+				"/D/testproject/test/array.php",
+				"/D/testproject/test/danli.php",
+				"/D/Profile/P-实用文件代码块/微信分享代码.txt",
+				"/D/Project/tp5/thinkphp/library/think/Request.php",
+				"/D/Project/tp5/application/index/controller/Index.php",
+				"/D/testproject/test/xunhuan.php",
+				"/D/Project/tp5/thinkphp/library/think/Model.php",
+				"/D/Project/tp5/thinkphp/convention.php",
+				"/D/Project/BBS/api/V1/Function.php",
+				"/D/Project/BBS/api/V1/Common.php",
+				"/C/Users/henry/Desktop/agets.sql",
+				"/D/testproject/test/exp.php",
+				"/D/Project/BBS/api/V1/GetBbsPostInfo.php",
+				"/D/testproject/test/date.php",
+				"/D/Project/abc360/Application/Web/View/AppInvite/share.html",
+				"/C/Users/henry/Desktop/新建文本文档.html",
+				"/C/Users/henry/Desktop/新建文本文档.txt",
+				"/C/Users/henry/Desktop/accounts.json",
+				"/D/software/portable/Sublime/Data/Packages/Git/Git.sublime-settings",
+				"/D/software/portable/Sublime/Data/Packages/User/Git.sublime-settings",
+				"/D/testproject/htdocs/Application/Home/Controller/IndexController.class.php",
+				"/D/testproject/htdocs/Application/Home/View/Index/index.html",
+				"/D/testproject/htdocs/Application/Home/View/index.html",
+				"/D/Project/local_dbconfig/bbs/bbszrelease/config_ucenter.php",
+				"/D/Project/abc360/.git/config",
+				"/D/Project/abc360/Application/V3/Controller/CommonController.class.php",
+				"/D/testproject/test/apitest/ThinkPHP/Library/Think/Controller/RestController.class.php",
+				"/D/Project/zerobased/ThinkPHP/Library/Think/Dispatcher.class.php",
+				"/D/Project/abc360/Application/V3/Controller/TwentyOneCardsController.class.php",
+				"/C/Users/henry/Desktop/2016-12-22.log",
+				"/C/Users/henry/Desktop/activity.sql",
+				"/C/Users/henry/Desktop/test.html",
+				"/D/Project/abc360/项目文档/数据库修改脚本/app3.2.6_db_chg_log.sql",
+				"/D/testproject/test/henry.php",
+				"/C/Users/henry/Desktop/pr.sql",
+				"/C/Users/henry/Desktop/word_test.js",
+				"/D/wamp64/bin/apache/apache2.4.17/bin/php.ini",
+				"/D/wamp64/bin/mysql/mysql5.7.9/my.ini",
+				"/D/Project/BBS/config/db_local.php",
+				"/D/Project/abc360/Application/Common/Conf/db_local.php",
+				"/D/Project/BBS/template/default/api/CommunityInfo.htm",
+				"/D/testproject/trunk/Application/V1/Controller/UserController.class.php",
+				"/D/testproject/trunk/Application/V1/Controller/V1Controller.class.php",
+				"/D/testproject/trunk/Framework/Library/Think/Controller/RestController.class.php",
+				"/D/Project/abc360/ThinkPHP/Library/Think/Controller/RestController.class.php",
+				"/D/testproject/trunk/Application/V1/Controller/IndexController.class.php",
+				"/D/testproject/trunk/Framework/Library/Think/Controller.class.php",
+				"/D/testproject/trunk/Application/Common/Util/lyf/upload/driver/Bcs.class.php",
+				"/D/testproject/trunk/Application/V1/Model/ModuleModel.class.php",
+				"/D/testproject/trunk/Application/Common/Conf/config.php",
+				"/D/Project/abc360/Application/V1/Controller/CommonController.class.php",
+				"/D/testproject/trunk/Application/V1/Model/ApiModel.class.php",
+				"/D/testproject/trunk/Application/Admin/Model/ModuleModel.class.php",
+				"/D/testproject/trunk/Application/V1/Controller/AccessController.class.php",
+				"/D/testproject/trunk/Application/V1/Controller/AddonController.class.php",
+				"/D/testproject/trunk/Application/V1/Controller/ApiController.class.php",
+				"/D/testproject/trunk/Application/V1/Controller/ConfigController.class.php",
+				"/D/testproject/trunk/Application/V1/Controller/GroupController.class.php",
+				"/D/testproject/trunk/Application/V1/Controller/ModuleController.class.php",
+				"/D/testproject/trunk/Application/V1/Controller/NavController.class.php",
+				"/D/testproject/trunk/Application/V1/Controller/PostController.class.php",
+				"/D/testproject/trunk/Application/V1/Controller/PublicController.class.php",
+				"/D/testproject/trunk/Application/V1/Controller/UpdateController.class.php",
+				"/D/testproject/trunk/Application/V1/Controller/UploadController.class.php",
+				"/D/testproject/trunk/Application/V1/Model/AccessModel.class.php",
+				"/D/testproject/trunk/Application/V1/Model/AddonModel.class.php",
+				"/D/testproject/trunk/Application/V1/Model/ConfigModel.class.php",
+				"/D/testproject/trunk/Application/V1/Model/GroupModel.class.php",
+				"/D/testproject/trunk/Application/V1/Model/HookModel.class.php",
+				"/D/testproject/trunk/Application/V1/Model/NavModel.class.php",
+				"/D/testproject/trunk/Application/V1/Model/PostModel.class.php",
+				"/D/testproject/trunk/Application/V1/Model/UploadModel.class.php",
+				"/D/testproject/trunk/Application/V1/Model/UserModel.class.php",
+				"/D/testproject/trunk/Application/V1/opencmf.php",
+				"/D/testproject/bbs/api/V1/Common.php",
+				"/D/testproject/test/md5.php",
+				"/D/Project/abc360/Application/Common/Common/function.php",
+				"/D/testproject/bbs/admin.php",
+				"/D/testproject/bbs/tools.php",
+				"/D/testproject/bbs/uc_server/admin.php",
+				"/D/testproject/bbs/source/class/discuz/discuz_admincp.php",
+				"/D/testproject/bbs/source/class/discuz/discuz_database.php",
+				"/D/testproject/bbs/source/class/class_core.php",
+				"/D/testproject/bbs/config/db_local_ucenter.php",
+				"/D/Project/BBS/uc_server/admin.php",
+				"/D/Project/BBS/uc_server/control/admin/admin.php",
+				"/D/Project/BBS/uc_server/model/base.php",
+				"/D/Project/BBS/uc_server/model/admin.php",
+				"/D/testproject/bbs/uc_server/control/admin/user.php",
+				"/D/testproject/bbs/config/config_global.php",
+				"/D/testproject/test/aaa.php",
+				"/D/testproject/trunk/Application/Admin/Controller/ApiController.class.php",
+				"/D/testproject/trunk/Application/Admin/Model/ApiModel.class.php",
+				"/D/testproject/trunk/Application/Admin/Controller/AddonController.class.php",
+				"/D/testproject/trunk/Application/Admin/opencmf.php",
+				"/D/testproject/trunk/Application/Admin/Model/AddonModel.class.php",
+				"/D/Project/BBS/api/接口相关文档/app_3.2.6.sql",
+				"/D/Project/abc360/Application/DataService/Service/StudentsService.class.php",
+				"/D/Project/abc360/Application/V1/Controller/StudentsController.class.php",
+				"/D/Project/BBS/api/V1/StudentInfo.php",
+				"/D/Project/abc360/Application/DataService/Controller/StudentsController.class.php"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					"D:\\testproject\\trunk\\Application\\V1",
+					"D:\\testproject\\trunk\\Application\\V1\\Controller",
+					"D:\\Project\\abc360",
+					"D:\\testproject\\trunk",
+					"D:\\www\\Application\\SmileBusinessAdmin\\View",
+					"D:\\www\\Application",
+					"D:\\www",
+					"D:\\www\\Application",
+					"D:\\Project\\BBS",
+					"D:\\www\\Application"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"operate_time",
+					", ",
+					"]",
+					"[",
+					"\"]",
+					"[\"",
+					"{",
+					"}",
+					"string(2)",
+					", ",
+					"quan-invalid-info",
+					"/",
+					"',\n",
+					"make",
+					"make_",
+					"             SELECT",
+					"SELECT",
+					"stdApi",
+					",\n",
+					"',\n",
+					");\n",
+					";\n",
+					"';\n",
+					">\n",
+					"jpg",
+					">\n",
+					"init-connect",
+					"utf",
+					";\n",
+					"getAll",
+					"install_file",
+					"opencmf",
+					"jry <598821125@qq.com>",
+					"Admin\\Model;",
+					"jry <598821125@qq.com>",
+					"extends AdminController",
+					"Admin\\Controller",
+					"is_https",
+					"postReply",
+					"D:/testproject",
+					"\\",
+					"init()",
+					"discuz_application->init()",
+					"\";\n",
+					"jry <598821125@qq.com>",
+					"user_object",
+					"addon",
+					"jry <598821125@qq.com>",
+					"addon",
+					"is_login",
+					"系统权限",
+					"avata",
+					"404, '修改失败'",
+					"();\n",
+					"//",
+					">\n",
+					"');\n",
+					"&quot;",
+					"] ",
+					"[",
+					"saveFeedback",
+					"'()'",
+					"/>\n",
+					"query",
+					"C::t",
+					",\n",
+					"\\n",
+					"\\n\n",
+					"\">\n",
+					"\\r\\n",
+					"\";\n",
+					",],\n",
+					"'];\n",
+					"Updated",
+					"Head",
+					"abc360App",
+					"getLatestPostTime",
+					"fonts.useso",
+					"fonts-",
+					"Keywords",
+					"设置课时学员关系失败",
+					"DATE_FORMAT",
+					"redis",
+					"extension",
+					"session('stdNow.id')",
+					"define",
+					"php-redis",
+					"extension",
+					"Red",
+					"Redis",
+					"Rediss",
+					"bizGetMakeUpCard",
+					");\n",
+					"rtn_msg",
+					"$",
+					"$staticUrl.\"",
+					"STATICURL",
+					"\"$_config['output']['staticurl']",
+					"/bbs/",
+					">\n",
+					"AC_FL_RunContent",
+					"onlogincheck",
+					"client.php",
+					"login",
+					"mp4",
+					"user",
+					"ls(\n",
+					"'];\n",
+					"');\n",
+					"user(",
+					"key",
+					"login",
+					"get_client_ip()",
+					";\n",
+					"\"\n",
+					"customer",
+					"tempGoods.Name = name",
+					"goodss",
+					"category",
+					"Category"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					".PHP_EOL.",
+					"\"",
+					"(",
+					")",
+					"",
+					"\\",
+					"|",
+					"explain SELECT",
+					"             SELECT",
+					"stdNow",
+					"henry <island_1123@163.com>",
+					"V1\\Model;",
+					"henry <island_1123@163.com>",
+					"extends V1Controller",
+					"V1\\Controller",
+					".",
+					"/",
+					"henry <island_1123@163.com>",
+					"$api_object",
+					"api",
+					"henry <island_1123@163.com>",
+					"api",
+					"410, '修改失败'",
+					"<!-- ",
+					"\"",
+					"']",
+					"['",
+					"\"('')\"",
+					"",
+					"<br>",
+					"Discuss",
+					"from_unixtime",
+					"\"$staticUrl",
+					"$staticUrl",
+					"STATICURL.\"",
+					"/",
+					"goodsarr",
+					"goods",
+					"Goods"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\testproject\\other\\src\\service"
+				},
+				{
+					"path": "D:\\testproject\\test"
+				},
+				{
+					"path": "D:\\Project\\BBS"
+				},
+				{
+					"path": "D:\\Project\\abc360"
+				},
+				{
+					"path": "D:\\testproject\\trunk"
+				},
+				{
+					"path": "D:\\testproject\\bbs"
+				},
+				{
+					"path": "D:\\testproject\\htdocs"
+				},
+				{
+					"path": "D:\\Project\\tp5"
+				},
+				{
+					"path": "D:\\Project\\17mocha"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/henry/Desktop/biz_field.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1903,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1518,
+										1518
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1540,
+												1541
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1506,
+												1507
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1201.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o://D:\\testproject\\go\\model":
+			{
+				"height": 316.0
+			},
+			"output.9o://D:\\testproject\\other\\src\\service":
+			{
+				"height": 297.0
+			},
+			"output.9o://D:\\testproject\\other\\src\\service\\model":
+			{
+				"height": 448.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 28.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 100.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,872,125,35,1415",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"publicconter",
+						"abc360\\Application\\V3\\Controller\\PublicController.class.php"
+					],
+					[
+						"web/indexcon",
+						"www\\Application\\Web\\Controller\\IndexController.class.php"
+					],
+					[
+						"web/teacher",
+						"www\\Application\\Web\\Controller\\TeachersController.class.php"
+					],
+					[
+						"smilebusinessadmin/public",
+						"www\\Application\\SmileBusinessAdmin\\Controller\\PublicController.class.php"
+					],
+					[
+						"v3/contr",
+						"Application\\V3\\Controller\\ClassRecordsController.class.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 302.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"MarkdownEditing",
+		"Package Control",
+		"php-snippets",
+		"SideBarEnhancements"
+	]
+}
